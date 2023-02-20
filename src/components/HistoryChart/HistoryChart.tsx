@@ -38,7 +38,7 @@ export default function HistoryChart({
 		datasets: [
 			{
 				type: 'line' as const,
-				label: 'Dataset 1',
+				label: 'Real-time Daniel tired level',
 				borderColor: 'rgb(255, 99, 132)',
 				borderWidth: 2,
 				fill: false,
@@ -51,6 +51,14 @@ export default function HistoryChart({
 		<Chart
 			type="line"
 			data={data}
+			options={{
+				animation: false,
+				elements: {
+					line: {
+						tension: 0.5,
+					},
+				},
+			}}
 		/>
 	);
 }

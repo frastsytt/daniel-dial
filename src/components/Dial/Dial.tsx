@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Dialogue from '../DialogueBox/DialogueBox';
-import { genRandomNum } from '../Helpers/Helpers';
+import { genRandomNum } from '../../helpers/Helpers';
 import GaugeChart from 'react-gauge-chart';
 import HistoryChart from '../HistoryChart/HistoryChart';
 export default function Dial() {
