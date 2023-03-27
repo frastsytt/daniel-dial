@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/daniel-dial/static/css/main.ae08707c.css",
+    "main.js": "/daniel-dial/static/js/main.5c94436b.js",
+    "static/js/787.7468bed9.chunk.js": "/daniel-dial/static/js/787.7468bed9.chunk.js",
+    "index.html": "/daniel-dial/index.html",
+    "main.ae08707c.css.map": "/daniel-dial/static/css/main.ae08707c.css.map",
+    "main.5c94436b.js.map": "/daniel-dial/static/js/main.5c94436b.js.map",
+    "787.7468bed9.chunk.js.map": "/daniel-dial/static/js/787.7468bed9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae08707c.css",
+    "static/js/main.5c94436b.js"
+  ]
+}
