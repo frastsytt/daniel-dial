@@ -1,7 +1,7 @@
 {
   "name": "daniel-dial",
   "version": "0.1.0",
-  "homepage": "https://frastsytt.github.io/daniel-dial",
+  "homepage": "./",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
